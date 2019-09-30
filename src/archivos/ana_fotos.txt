@@ -1,0 +1,2 @@
+{"path":"C:\\contenedorFotos\\abc2.jpg","fecha":"20-10-12","album":"Dia Madre","lugar":"Cuenca","camara":"alpha","nombre":"Primer Dia de Clases 3","personas":["Adrian", "Dario", "Roy"],"usuario":"ana"}
+{"path":"C:\\contenedorFotos\\super1.jpg","fecha":"23-12-12","album":"tesoros","lugar":"gye","camara":"kanon","nombre":"Primer Dia de Clases 4","personas":["Adrian", "Dario", "Mark"],"usuario":"ana"}

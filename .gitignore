@@ -1,0 +1,15 @@
+build
+/build/
+*.class
+manifest.mf
+/nbproject/private/
+*.log
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+*.properties

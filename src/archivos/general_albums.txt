@@ -1,0 +1,3 @@
+{"descripcion":"bonitos","nombre":"animales"}
+{"descripcion":"Todas las fotos","nombre":"general"}
+{"descripcion":"adadada","nombre":"Hola"}

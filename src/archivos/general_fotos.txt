@@ -1,0 +1,4 @@
+{"path":"C:\\contenedorFotos\\abc.jpg","fecha":"25-11-12","album":"Selfies","lugar":"Quito","camara":"kanon","nombre":"5","personas":["Adrian","Roy"]}
+{"path":"C:\\contenedorFotos\\abc.jpg","fecha":"25-11-12","album":"Selfies","lugar":"Quito","camara":"kanon","nombre":"5","personas":["Adrian","Roy"]}
+{"path":"C:\\contenedorFotos\\super2.jpg","fecha":"24-12-12","album":"animales","lugar":"gye","camara":"alpha","nombre":"6","personas":["Adrian","Dario","Roy"]}
+{"path":"C:\\contenedorFotos\\pantera.jpg","fecha":"20-02-12","album":"Selfies","lugar":"Quito","camara":"kanon","nombre":"1","personas":["Adrian","Dario","Mark"]}
